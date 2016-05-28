@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.11",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GameAnalytics",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/d070c3fab7b74c08bab3a89c9cbf4490"
+		},
+		{
+			"Name": "Substance",
+			"Enabled": true
+		}
+	]
+}
