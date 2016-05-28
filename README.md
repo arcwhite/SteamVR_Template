@@ -1,6 +1,6 @@
 ### Steam VR Template ###
 
-Instruction guide found in the onedrive, or direct link at https://onedrive.live.com/redir?resi...int=file%2cpdf   
+Instruction guide found in the onedrive, or direct link at https://onedrive.live.com/redir?resid=6283336A7C9CA810!8154&authkey=!AOKDNvFGYwxzIB0&ithint=file%2cpdf  
 Disclaimer: The goal of this template is to put together a noob-proof SteamVR pawn to drop in your scene. However, one size for all solutions will not answer to all specific implementations, but it can gives you a head start. The template will be updated regularly with Unreal forum contributors suggestions. 
 My eternal thanks to (but not only) @mitchemmc for input maps and controllers mapping and @PenguinTD for amongst many functions , teleportation method #2 and Ultraman.
 Thanks to @mordentral for the grabbing fantastic plugin.
@@ -41,7 +41,7 @@ Features
 •	Adjustable "safe" value to teleport on uneven surfaces
 
 Setup
-Files can be found at https://onedrive.live.com/redir?resi...t=folder%2czip 
+Files can be found at https://onedrive.live.com/redir?resid=6283336A7C9CA810!6527&authkey=!AJMU7UC1E0IlaGc&ithint=folder%2czip 
 GitHub version at https://github.com/ProteusVR/SteamVR_Template (you need to be logged to Github to open the link) 
 To install as a template, just unzip into the appropriate templates directory like C:\Program Files\Unreal Engine[Version]\Templates for launcher version or[ForkLocation]\UE4\Templates for source version. Launch a new project, and you'll find it in the blueprint section.
 To install as a project file, unzip in your usual projects folder. Then, delete the file SteamVR_x-x/Config/TemplateDefs.ini and you’re ready to go.
