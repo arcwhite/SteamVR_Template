@@ -1,6 +1,6 @@
 ### Steam VR Template ###
 
-Instruction guide found in the onedrive, or direct link at https://onedrive.live.com/redir?resi...int=file%2cpdf  
+Instruction guide found in the onedrive, or direct link at https://onedrive.live.com/redir?resi...int=file%2cpdf   
 Disclaimer: The goal of this template is to put together a noob-proof SteamVR pawn to drop in your scene. However, one size for all solutions will not answer to all specific implementations, but it can gives you a head start. The template will be updated regularly with Unreal forum contributors suggestions. 
 My eternal thanks to (but not only) @mitchemmc for input maps and controllers mapping and @PenguinTD for amongst many functions , teleportation method #2 and Ultraman.
 Thanks to @mordentral for the grabbing fantastic plugin.
@@ -9,39 +9,39 @@ I remind everyone that any contribution is welcome. The commercial/fun value of 
 Have fun!
 Mat, at Proteus VR
 
-Latest version 1.9.1 ñ UE4.11.2: May 27, 2016
+Latest version 1.9.1 ‚Äì UE4.11.2: May 27, 2016
 
 Features
 
-ï	Animated triggers in both controllers
-ï	Map of all buttons/trackpad on controllers
-ï	Toggle on/off debugging squares of controllers and/or base stations
-ï	Toggle on/off debugging meshes of base stations
-ï	2 different ways to teleport
-ï	Ghost move
-ï	Basic vehicle
-ï	Scalability settings for Vive
-ï	Finger tracking on trackpad
-ï	Trace line with trigger
-ï	Force feedback
-ï	Textures on cubes and sphere to test scalability settings
-ï	Toybox: 4 objects with skeletal sockets: the sword, the gun, the baton, the lightsaber; 1 object with mesh socket: the book; 1 object without sockets: the hat
-ï	Animated "grabbing" mesh right hand (will be refined) -- can be used instead of right controller mesh
-ï	Teleportation with trackpad ‡ la The Lab with cylinder & particles validation
-ï	Go/No go teleportation zones with camera fade out
-ï	Moving platform for testing purpose, by simple actor move (embark by triggering overlap volume or teleportation; disembark by teleportation) and matinee (embark/disembark with controller input)
-ï	Triggerable poles at the 4 chaperone corners
-ï	Addition of a cone at the tip of the right trigger -- can be rotated
-ï	ìUltraManî mode
-ï	Standing/seated experience switch
-ï	Grab function
-ï	Head mesh with mirror
-ï	Selectable controllers skins & opacity
-ï	Select alternate meshes for controllers
-ï	Adjustable "safe" value to teleport on uneven surfaces
+‚Ä¢	Animated triggers in both controllers
+‚Ä¢	Map of all buttons/trackpad on controllers
+‚Ä¢	Toggle on/off debugging squares of controllers and/or base stations
+‚Ä¢	Toggle on/off debugging meshes of base stations
+‚Ä¢	2 different ways to teleport
+‚Ä¢	Ghost move
+‚Ä¢	Basic vehicle
+‚Ä¢	Scalability settings for Vive
+‚Ä¢	Finger tracking on trackpad
+‚Ä¢	Trace line with trigger
+‚Ä¢	Force feedback
+‚Ä¢	Textures on cubes and sphere to test scalability settings
+‚Ä¢	Toybox: 4 objects with skeletal sockets: the sword, the gun, the baton, the lightsaber; 1 object with mesh socket: the book; 1 object without sockets: the hat
+‚Ä¢	Animated "grabbing" mesh right hand (will be refined) -- can be used instead of right controller mesh
+‚Ä¢	Teleportation with trackpad √† la The Lab with cylinder & particles validation
+‚Ä¢	Go/No go teleportation zones with camera fade out
+‚Ä¢	Moving platform for testing purpose, by simple actor move (embark by triggering overlap volume or teleportation; disembark by teleportation) and matinee (embark/disembark with controller input)
+‚Ä¢	Triggerable poles at the 4 chaperone corners
+‚Ä¢	Addition of a cone at the tip of the right trigger -- can be rotated
+‚Ä¢	‚ÄúUltraMan‚Äù mode
+‚Ä¢	Standing/seated experience switch
+‚Ä¢	Grab function
+‚Ä¢	Head mesh with mirror
+‚Ä¢	Selectable controllers skins & opacity
+‚Ä¢	Select alternate meshes for controllers
+‚Ä¢	Adjustable "safe" value to teleport on uneven surfaces
 
 Setup
-Files can be found at https://onedrive.live.com/redir?resi...t=folder%2czip
-GitHub version at https://github.com/ProteusVR/SteamVR-Template (you need to be logged to Github to open the link) 
+Files can be found at https://onedrive.live.com/redir?resi...t=folder%2czip 
+GitHub version at https://github.com/ProteusVR/SteamVR_Template (you need to be logged to Github to open the link) 
 To install as a template, just unzip into the appropriate templates directory like C:\Program Files\Unreal Engine[Version]\Templates for launcher version or[ForkLocation]\UE4\Templates for source version. Launch a new project, and you'll find it in the blueprint section.
-To install as a project file, unzip in your usual projects folder. Then, delete the file SteamVR_x-x/Config/TemplateDefs.ini and youíre ready to go.
+To install as a project file, unzip in your usual projects folder. Then, delete the file SteamVR_x-x/Config/TemplateDefs.ini and you‚Äôre ready to go.
