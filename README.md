@@ -9,7 +9,7 @@ I remind everyone that any contribution is welcome. The commercial/fun value of 
 Have fun!
 Mat, at Proteus VR
 
-Latest version 1.9.1 – UE4.11.2: May 27, 2016
+Latest version 1.9.3 – UE4.12.0: June 6, 2016
 
 Features
 
